@@ -1,7 +1,7 @@
 module.exports = {
-    HOST: "xxx",
-    USER: "xxx",
+    HOST: "localhost",
+    USER: "root",
     PASSWORD: "xxx",
-    DATABASE: "xxx"
+    DATABASE: "polibatam10"
    };
    
